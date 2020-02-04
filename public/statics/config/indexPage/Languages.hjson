@@ -1,0 +1,28 @@
+//计算机技能模块配置文件
+{
+    "title": {
+        "name": "LANGUAGES",
+        "time": ""
+    },
+    "languages": [
+        {
+            "title": "English",
+            "subTitle": "professional working proficiency",
+            "imgUrl":"statics/img/icon/language/英语.png"
+        },
+          {
+            "title": "Cantonese",
+            "subTitle": "elementary",
+            "imgUrl":"statics/img/icon/language/普通话.png"
+        },  {
+            "title": "Mandarin Chinese",
+            "subTitle": "native",
+            "imgUrl":"statics/img/icon/language/普通话.png"
+        },
+          {
+            "title": "Singlish",
+            "subTitle": "daily communication",
+            "imgUrl":"statics/img/icon/language/新加坡.png"
+        }
+    ]
+}

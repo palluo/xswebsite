@@ -1,0 +1,16 @@
+{
+    //导航条配置
+    "nav":[{
+        "title":"HONORS & AWARDS",
+        "anchor":"HONORS & AWARDS"
+    },{
+        "title":"PROFESSIONAL ACTIVITIES",
+        "anchor":"PROFESSIONAL ACTIVITIES"
+    },{
+        "title":"PUBLICATIONS",
+        "anchor":"Publications"
+    },{
+        "title":"RESEARCH",
+        "anchor":"RESEARCH"
+    }]
+}

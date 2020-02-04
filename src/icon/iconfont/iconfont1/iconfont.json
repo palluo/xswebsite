@@ -1,0 +1,135 @@
+{
+  "id": "1620408",
+  "name": "学术网站",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12897794",
+      "name": "学校",
+      "font_class": "xuexiao",
+      "unicode": "ea3d",
+      "unicode_decimal": 59965
+    },
+    {
+      "icon_id": "12897795",
+      "name": "地点",
+      "font_class": "didian",
+      "unicode": "ea3e",
+      "unicode_decimal": 59966
+    },
+    {
+      "icon_id": "12897796",
+      "name": "电话号码",
+      "font_class": "dianhuahaoma",
+      "unicode": "ea3f",
+      "unicode_decimal": 59967
+    },
+    {
+      "icon_id": "12897797",
+      "name": "computer",
+      "font_class": "computer",
+      "unicode": "ea40",
+      "unicode_decimal": 59968
+    },
+    {
+      "icon_id": "12897798",
+      "name": "date",
+      "font_class": "date",
+      "unicode": "ea41",
+      "unicode_decimal": 59969
+    },
+    {
+      "icon_id": "12897799",
+      "name": "honors",
+      "font_class": "honors",
+      "unicode": "ea42",
+      "unicode_decimal": 59970
+    },
+    {
+      "icon_id": "12897800",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "ea43",
+      "unicode_decimal": 59971
+    },
+    {
+      "icon_id": "12897801",
+      "name": "马点儿",
+      "font_class": "madianer",
+      "unicode": "ea44",
+      "unicode_decimal": 59972
+    },
+    {
+      "icon_id": "12897802",
+      "name": "others",
+      "font_class": "others",
+      "unicode": "ea45",
+      "unicode_decimal": 59973
+    },
+    {
+      "icon_id": "12897803",
+      "name": "publications",
+      "font_class": "publications",
+      "unicode": "ea46",
+      "unicode_decimal": 59974
+    },
+    {
+      "icon_id": "12897804",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "ea47",
+      "unicode_decimal": 59975
+    },
+    {
+      "icon_id": "12897805",
+      "name": "research",
+      "font_class": "research",
+      "unicode": "ea48",
+      "unicode_decimal": 59976
+    },
+    {
+      "icon_id": "12897806",
+      "name": "languages",
+      "font_class": "languages",
+      "unicode": "ea49",
+      "unicode_decimal": 59977
+    },
+    {
+      "icon_id": "12897807",
+      "name": "professional",
+      "font_class": "professional",
+      "unicode": "ea4a",
+      "unicode_decimal": 59978
+    },
+    {
+      "icon_id": "12904937",
+      "name": "expritise",
+      "font_class": "expritise",
+      "unicode": "ea4b",
+      "unicode_decimal": 59979
+    },
+    {
+      "icon_id": "12904938",
+      "name": "hobbies",
+      "font_class": "hobbies",
+      "unicode": "ea4c",
+      "unicode_decimal": 59980
+    },
+    {
+      "icon_id": "12904939",
+      "name": "数据分析",
+      "font_class": "shujufenxi",
+      "unicode": "ea4d",
+      "unicode_decimal": 59981
+    },
+    {
+      "icon_id": "12904940",
+      "name": "debates",
+      "font_class": "debates",
+      "unicode": "ea4e",
+      "unicode_decimal": 59982
+    }
+  ]
+}

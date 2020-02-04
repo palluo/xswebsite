@@ -1,0 +1,54 @@
+//其他模块配置文件
+{
+    "title": {
+        "name": "OTHERS",
+        "time": ""
+    },
+    "hobbies": {
+        "title": "Hobbies",
+        "list": [
+            {
+                "title": "Books & movies & music",
+                 "imgUrl": "statics/img/icon/others/movies.png",
+                "passion": 100
+            },
+            {
+                "title": "Jogging",
+                 "imgUrl": "statics/img/icon/others/跑步.png",
+                "passion": 80
+            },
+            {
+                "title": "Story writing",
+                 "imgUrl": "statics/img/icon/others/写作.png",
+                "passion": 70
+               
+            },
+            {
+                "title": "Photography",
+                 "imgUrl": "statics/img/icon/others/摄影.png",
+                "passion": 50
+               
+            },
+            {
+                "title": "Traveling",
+                 "imgUrl": "statics/img/icon/others/traveling.png",
+                "passion": 50
+               
+            }
+        ]
+    },
+    "expritise": {
+        "title": "Expritise",
+        "debates":{
+            "title":"debates",
+            "list":[
+            {
+                "text":"Debating styles (TV shows, Oregon, and British Parliamentary)"
+            },
+            {
+                "text":"Language for debates: Mandarin"
+            }
+        ]
+        }
+    }
+}

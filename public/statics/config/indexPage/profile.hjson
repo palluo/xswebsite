@@ -1,0 +1,67 @@
+//个人信息配置
+{
+    "persion": {
+        "imgurl": "statics/img/Photo.jpg",
+        "name": "Xiaoyu CHEN (陈晓宇)",
+        "profession": "Ph.D. Candidate in Information Studies",
+        "school": {
+            title:"Curriculum Vitae",
+            "url":"./statics/pdf/Xiaoyu_Chen CV_updated on Jan.pdf"
+        }
+    },
+    "detail": [
+        {
+            "icon": "icon iconfont iconxuexiao",
+            "data": "Wee Kim Wee School of Communication<br/>and Information"
+        },
+        {
+            "icon": "icon iconfont icondidian",
+            "data": "Nanyang Technological University, <br/>Singapore"
+        },
+        {
+            "icon": "icon iconfont iconyouxiang",
+            "data": "XIAOYU001@e.ntu.edu.sg<br/>xiaoyu.chen0928@gmail.com"
+        }
+    ],
+    "brief": {
+        "title": "BRIEF BIOGRAPHY",
+        "data":"I am now a Ph.D. Candidate in Information Studies at Wee Kim Wee School of Communication and Information (WKWSCI) of Nanyang Technological University, Singapore. My research areas mainly cover three aspects, namely, user information behavior (action), user-generated content (outcome), and user cyber-psychology (underlying mechanism), particularly in the context of social media. Currently, My Ph.D. project focuses on a particular group of online influencers who create and share knowledge-intensive content on online platforms (viz., Knowledge Wanghong in China). My Ph.D. thesis is being jointly supervised by <a href='http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=ALTONCHUA' target='_blank'>Dr. Alton Y.K. Chua</a>and <a href='https://www.ntu.edu.sg/home/peelg/' target='_blank'>Dr. L.G. Pee.</a><br/>Before joining WKWSCI, I obtained a Master’s degree in Information Science from Wuhan University as well as a Bachelor’s degree in Information Management & Information Systems from Huazhong Agricultural University, both of which are based in Wuhan, China. I also had worked at Xinhua News Agency (Hubei Branch) before I chose to pursue my Ph.D. degree. I was born in Jinzhai County, Anhui Province, P.R. China."
+    },
+    "education": {
+        "title": "EDUCATION",
+        "data": [
+            {
+                "profession": "Ph.D. in Information Studies",
+                "school": "Nanyang Technological University",
+                "address": "Singapore",
+                "time": "2017-2021"
+            },
+            {
+                "profession": "M.S. in Information Science",
+                "school": "Wuhan University",
+                "address": "China",
+                "time": "2013-2016"
+            },
+            {
+                "profession": "B.S. in  Management & Information Systems",
+                "school": "Huazhong Agricultural University",
+                "address": "China",
+                "time": "2009-2013"
+            }
+        ]
+    },
+    "links":[
+        {
+            "imgUrl":"statics/img/profile/1.png",
+            "link":"https://www.linkedin.com/in/xiaoyu-chen-8b1b38103"
+        },
+         {
+            "imgUrl":"statics/img/profile/2.png",
+            "link":"https://www.zhihu.com/people/chenxiaoyu0928"
+        },
+         {
+            "imgUrl":"statics/img/profile/3.jpg",
+            "link":"https://scholar.google.com/citations?user=maIxQRMAAAAJ&hl=en"
+        }
+    ]
+}

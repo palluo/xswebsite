@@ -1,0 +1,51 @@
+//专业活动模块配置文件
+{
+    "title":{
+        "name":"PROFESSIONAL ACTIVITIES",
+        "time":""
+    },
+    "activities":[
+        {
+            "title":"Teaching and research assistant",
+            "imgUrl":"statics/img/professional/professional1.png",
+            "address":"Nanyang Technological University",
+            "time":"2017-now"//时间
+        },
+          {
+            "title":"Residential mentor of undergraduates",
+             "imgUrl":"statics/img/professional/professional2.png",
+            "address":"Residential mentor of undergraduates",
+            "time":"August 2019—August 2020"//时间
+        },
+         {
+            "title":"Co-advisor of master students' theses",
+             "imgUrl":"statics/img/professional/professional3.png",
+            "address":"Nanyang Technological University",
+            "time":"2017-now"//时间
+        }
+    ],
+    "journals":{
+        "title":"Anonymous reviewer for the following peer-review journals",
+        "list":[
+        {
+            "title":"Aslib Journal of Information Management",
+            "imgUrl":"statics/img/professional/list/1.jpg"
+        },
+        {
+            "title":"Behaviour & Information Technology",
+            "imgUrl":"statics/img/professional/list/2.png"
+        },
+        {
+            "title":"Computers in Human Behavior",
+            "imgUrl":"statics/img/professional/list/3.png"
+        },{
+            "title":"Knowledge Management Research & Practice",
+            "imgUrl":"statics/img/professional/list/4.jpg"
+        },
+        {
+            "title":"Online Information Review",
+            "imgUrl":"statics/img/professional/list/5.jpg"
+        }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+//荣誉和奖励模块配置文件
+{
+    "title":{
+        "name":"HONORS & AWARDS",
+        "time":""
+    },
+    "honors":[
+        {
+            "time":"2018",
+            "year":"",
+            "title":"Outstanding Reviewer",
+            "subTitle":"Aslib Journal of Information Management",
+            "school":"Singapore",
+            "schoolLogo":"statics/img/icon/professional.png",
+            "backgroundLogo":"statics/img/icon/honors/1.png"
+        },
+            {
+            "time":"2016",
+            "year":"",
+            "title":"Outstanding Graduates",
+            "subTitle":"Award for Outstanding Graduates",
+            "school":"Wuhan University",
+            "schoolLogo":"statics/img/icon/professional.png",
+            "backgroundLogo":"statics/img/icon/honors/2.png"
+        },
+        {
+            "time":"2015",
+            "year":"",
+            "title":"National Scholarship",
+            "subTitle":"Wuhan University",
+            "school":"Wuhan University",
+            "schoolLogo":"statics/img/icon/professional.png",
+            "backgroundLogo":"statics/img/icon/honors/4.png"
+        },
+        {
+            "time":"2013",
+            "year":"",
+            "title":"Outstanding Graduates",
+            "subTitle":"Award for Outstanding Graduates",
+            "school":"Huazhong Agricultural University",
+            "schoolLogo":"statics/img/icon/professional.png",
+            "backgroundLogo":"statics/img/icon/honors/3.png"
+        },{
+            "time":"2010-2013",
+            "year":"",
+            "title":"Excellent Undergraduates",
+            "subTitle":"Scholarship for Excellent Undergraduates",
+            "school":"Huazhong Agricultural University",
+            "schoolLogo":"statics/img/icon/professional.png",
+            "backgroundLogo":"statics/img/icon/honors/5.png"
+        }
+    ]
+}

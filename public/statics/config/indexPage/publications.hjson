@@ -1,0 +1,39 @@
+//出版物模块配置文件
+{
+    "title":{
+        "name":"Publications",
+        "time":""
+    },
+    "publications":[//出版物模块
+        {
+            "title":"Selected Refereed Journal Articles",
+            "books":[
+                {
+                    "name":"Behaviour & Information Technology",
+                    "imgUrl":"statics/img/books/book2.png",
+                    "pagination":"  "
+                    "detail":"Exploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective",
+                    "sign":"Fu, S., Chen, X*., & Zheng, H. (2020). ",
+                    "url":"https://doi.org/10.1080/0144929X.2020.1716848"
+                },
+                {
+                    "name":"Journal of Interactive Advertising",
+                    "imgUrl":"statics/img/books/book3.png",
+                    "pagination":"  "
+                    "detail":"Investigating consumer engagement with influencer-vs. brand-promoted ads: The roles of source and disclosure.",
+                    "sign":"Lou, C., Tan, S. S., & Chen, X. (2019).",
+                     "url":"https://doi.org/10.1080/15252019.2019.1667928"
+                },
+                  {
+                    "name":"Aslib Journal of Information Management",
+                    "imgUrl":"statics/img/books/book1.png",
+                    "pagination":"  "
+                    "detail":"Comparing the web and mobile platforms of a social Q&A service from the user’s perspective.",
+                    "sign":"Chen, X*., Chua, A. Y., & Deng, S.(2018)",
+                     "url":"https://doi.org/10.1108/AJIM-06-2017-0149"
+                }
+                  
+            ]
+        }
+    ]
+}

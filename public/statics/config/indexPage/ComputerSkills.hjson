@@ -1,0 +1,70 @@
+//计算机技能模块配置文件
+{
+    "title": {
+        "name": "COMPUTER SKILLS",
+        "time": ""
+    },
+    "skills": [
+        {
+            "title": "Statistical data analysis",
+            "list": [
+                {
+                    "imgUrl": "statics/img/icon/skill/excel.png",
+                    "text": "Excel"
+                },
+                {
+                    "imgUrl": "statics/img/icon/skill/spaas.png",
+                    "text": "SPSS"
+                },
+                {
+                    "imgUrl": "statics/img/icon/skill/r.png",
+                    "text": "R"
+                }
+            ]
+        },
+        {
+            "title": "Structure equation modeling",
+            "list": [
+                {
+                    "imgUrl": "statics/img/icon/skill/excel.png",
+                    "text": "Excel"
+                },
+                {
+                    "imgUrl": "statics/img/icon/skill/spaas.png",
+                    "text": "SPSS"
+                },
+                {
+                    "imgUrl": "statics/img/icon/skill/r.png",
+                    "text": "R"
+                }
+            ]
+        },
+        {
+            "title": "Qualitative comparative analysis",
+            "list": [
+                {
+                    "imgUrl": "statics/img/icon/skill/r.png",
+                    "text": "R"
+                }
+            ]
+        },
+        {
+            "title": "Qualitative text analysis",
+            "list": [
+                {
+                    "imgUrl": "statics/img/icon/skill/r.png",
+                    "text": "R"
+                }
+            ]
+        },
+        {
+            "title": "LDA topic modeling",
+            "list": [
+                {
+                    "imgUrl": "statics/img/icon/skill/r.png",
+                    "text": "R"
+                }
+            ]
+        }
+    ]
+}

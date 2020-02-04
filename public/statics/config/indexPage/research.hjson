@@ -1,0 +1,21 @@
+//研究模块配置文件
+{
+    "title":{
+        "name":"RESEARCH",
+        "time":""
+    },
+    "researchs":[
+        {
+            "title":"Ongoing Ph.D. dissertation",
+            "subTitle":"The Impact of Perceived Attractiveness of Knowledge Wanghong on Users’ Willingness to Pay",
+            "detail":"&nbsp&nbsp&nbsp&nbspMy Ph.D. dissertation focuses on a particular group of online influencers who create and share knowledge-intensive content on online platforms (viz., Knowledge Wanghong in China). Recently, such platforms have developed new features that enable Knowledge Wanghong to monetize their efforts through users’ payment (viz., pay-for-knowledge). Although we know that Knowledge Wanghong can attract users to pay for the content they generated, little research has shed light on the role of the perceived attractiveness of Knowledge Wanghong in enhancing users’ willingness to pay.To address this problem, the dissertation draws on a social informatics perspective to explain the perceived attractiveness of Knowledge Wanghong according to their characteristics and related social interactions, and its effect on users’ willingness to pay for the content they generated. Three specific research objectives compose the research. The first objective is to characterize Knowledge Wanghong based on their self-presentation styles and knowledge contribution attributes. The second objective is to explicate and validate the associations between the perceived attractiveness of Knowledge Wanghong, their characteristics, and related social interactions. The third objective is to examine the effect of perceived attractiveness of Knowledge Wanghong and users’ attachment to Knowledge Wanghong on users’ willingness to pay."
+            "time":"10"//阅读时间
+        },
+         {
+            "title":"Other research projects",
+            "subTitle":"",
+            "detail":"&nbsp&nbsp&nbsp&nbspApart from the Ph.D. research, I’m also happy to collaborate with other researchers to address some interesting questions related to social media. Recently, I’m working on some projects such as online information behavior, digital influencer marketing, and user-generated content (e.g., online reviews and social Q&A).<br/><br/>&nbsp&nbsp&nbsp&nbsp.&nbsp&nbspMonetizing online knowledge sharing efforts: A study of Knowledge Wanghong,” collaboration with A.Y. K. Chua and L.G. Pee<br/><br/>&nbsp&nbsp&nbsp&nbsp.&nbsp&nbspEarning more or less? A study of economic returns among Knowledge Wanghong,” collaboration with A.Y. K. Chua and L.G. Pee<br/><br/>&nbsp&nbsp&nbsp&nbsp.&nbsp&nbspSocial informatics study of online pay-for-knowledge practices in China,” collaboration with A.Y. K. Chua and L.G. Pee<br/><br/>&nbsp&nbsp&nbsp&nbsp.&nbsp&nbspExploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective,” collaboration with S. Fu and H. Zheng<br/><br/>&nbsp&nbsp&nbsp&nbsp.&nbsp&nbspTracking altmetrics research through published papers,” collaboration with H. Zheng and X. Duan"
+            "time":"10"//阅读时间
+        }
+    ]
+}
